@@ -1,0 +1,39 @@
+mood;energy;mindset;cravings;health_goals;food_choices
+Happy;High;Focused;Sweet;Increase Muscles;Burger
+Sad;High;Focused;Sweet;Increase Muscles;Burger & Juice
+OK;High;Focused;Sweet;Increase Muscles;Burger
+Happy;Low;Focused;Sweet;Increase Muscles;Burger & Energy Drink
+Sad;Low;Focused;Sweet;Increase Muscles;Burger & Juice
+OK;Low;Focused;Sweet;Increase Muscles;Burger & Juice
+Happy;Exhausted;Focused;Sweet;Increase Muscles;Burger
+Sad;Exhausted;Focused;Sweet;Increase Muscles;Burger & Energy Drink
+OK;Exhausted;Focused;Sweet;Increase Muscles;Burger & Ice Cream
+Happy;High;Focused;Sweet;Increase Muscles;Burger
+Sad;High;Distracted;Sweet;Reduce Weight;Mediterrenean wrap & Juice
+OK;High;Focused;Sweet;Reduce Weight;Mediterrenean wrap
+Happy;High;Focused;Sweet;Reduce Weight;Mediterrenean wrap
+Sad;Low;Distracted;Junk;Reduce Weight;Mediterrenean wrap & Juice
+OK;Exhausted;Distracted;Spicy;Reduce Weight;Mediterrenean wrap
+Happy;High;Calm;Sweet;Reduce Weight;Mediterrenean wrap
+Sad;High;Distracted;Sweet;Reduce Weight;Mediterrenean wrap & Juice
+OK;High;Calm;Sweet;Reduce Weight;Mediterrenean wrap
+Happy;Exhausted;Stressed;Sweet;Reduce Weight;Mediterrenean wrap
+Sad;Low;Stressed;Junk;Reduce Weight;Mediterrenean wrap & Juice
+OK;Exhausted;Stressed;Sweet;Reduce Weight;Mediterrenean wrap
+Happy;Low;Stressed;Junk;Reduce Weight;Mediterrenean wrap
+Sad;Exhausted;Stressed;Sweet;Reduce Weight;Mediterrenean wrap & Juice
+OK;Low;Stressed;Junk;Reduce Weight;Mediterrenean wrap
+Sad;High;Distracted;Sweet;Increase Weight;Burger & Juice
+OK;High;Focused;Sweet;Increase Weight;Mediterrenean wrap & Juice
+Happy;High;Focused;Sweet;Increase Weight;Mediterrenean wrap with Cheese
+Sad;Low;Distracted;Junk;Increase Weight;Burger & Ice Cream
+OK;Exhausted;Distracted;Spicy;Increase Weight;Mediterrenean wrap & Juice
+Happy;High;Calm;Sweet;Increase Weight;Mediterrenean wrap & Juice
+Sad;High;Distracted;Sweet;Increase Weight;Salad with Protein & Juice
+OK;High;Calm;Sweet;Increase Weight;Mediterrenean wrap & Juice
+Happy;Exhausted;Stressed;Sweet;Increase Weight;Mediterrenean wrap & Ice Cream
+Sad;Low;Stressed;Junk;Increase Weight;Mediterrenean wrap & Juice
+OK;Exhausted;Stressed;Sweet;Increase Weight;Mediterrenean wrap & Ice Cream
+Happy;Low;Stressed;Junk;Increase Weight;Mediterrenean wrap & Juice
+Sad;Exhausted;Stressed;Sweet;Increase Weight;Mediterrenean wrap & Juice
+OK;Low;Stressed;Junk;Increase Weight;Mediterrenean wrap & Ice Cream

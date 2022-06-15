@@ -1,0 +1,325 @@
+mood,energy,mindset,cravings,health_goals,food_choices
+Happy,High,Focused,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,High,Focused,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,High,Focused,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,High,Focused,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,High,Focused,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,High,Focused,Junk,Increase Weight,Salad with Protein & Juice
+Happy,High,Focused,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,High,Focused,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,High,Focused,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,High,Distracted,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,High,Distracted,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,High,Distracted,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,High,Distracted,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,High,Distracted,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,High,Distracted,Junk,Increase Weight,Salad with Protein & Juice
+Happy,High,Distracted,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,High,Distracted,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,High,Distracted,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,High,Calm,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,High,Calm,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,High,Calm,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,High,Calm,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,High,Calm,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,High,Calm,Junk,Increase Weight,Salad with Protein & Juice
+Happy,High,Calm,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,High,Calm,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,High,Calm,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,High,Stressed,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,High,Stressed,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,High,Stressed,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,High,Stressed,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,High,Stressed,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,High,Stressed,Junk,Increase Weight,Salad with Protein & Juice
+Happy,High,Stressed,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,High,Stressed,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,High,Stressed,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Low,Focused,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Focused,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Focused,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Low,Focused,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Focused,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Focused,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Low,Focused,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Focused,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Focused,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Low,Distracted,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Distracted,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Distracted,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Low,Distracted,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Distracted,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Distracted,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Low,Distracted,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Distracted,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Distracted,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Low,Calm,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Calm,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Calm,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Low,Calm,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Calm,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Calm,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Low,Calm,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Calm,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Calm,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Low,Stressed,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Stressed,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Stressed,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Low,Stressed,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Stressed,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Stressed,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Low,Stressed,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Low,Stressed,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Low,Stressed,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Focused,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Focused,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Focused,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Focused,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Focused,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Focused,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Focused,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Focused,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Focused,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Distracted,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Calm,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Calm,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Calm,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Calm,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Calm,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Calm,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Calm,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Calm,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Calm,Spicy,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Sweet,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Sweet,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Sweet,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Junk,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Junk,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Junk,Increase Weight,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Spicy,Increase Muscles,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Spicy,Reduce Weight,Salad with Protein & Juice
+Happy,Exhausted,Stressed,Spicy,Increase Weight,Salad with Protein & Juice
+Sad,High,Focused,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Focused,Sweet,Reduce Weight,Mediterrenean wrap & Juice
+Sad,High,Focused,Sweet,Increase Weight,Burger & Ice Cream
+Sad,High,Focused,Junk,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Focused,Junk,Reduce Weight,Mediterrenean wrap & Juice
+Sad,High,Focused,Junk,Increase Weight,Burger & Ice Cream
+Sad,High,Focused,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Focused,Spicy,Reduce Weight,Mediterrenean wrap & Juice
+Sad,High,Focused,Spicy,Increase Weight,Burger & Ice Cream
+Sad,High,Distracted,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Distracted,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,High,Distracted,Sweet,Increase Weight,Burger & Ice Cream
+Sad,High,Distracted,Junk,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Distracted,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,High,Distracted,Junk,Increase Weight,Burger & Ice Cream
+Sad,High,Distracted,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Distracted,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,High,Distracted,Spicy,Increase Weight,Burger & Ice Cream
+Sad,High,Calm,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Calm,Sweet,Reduce Weight,Mediterrenean wrap & Juice
+Sad,High,Calm,Sweet,Increase Weight,Burger & Ice Cream
+Sad,High,Calm,Junk,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Calm,Junk,Reduce Weight,Mediterrenean wrap & Juice
+Sad,High,Calm,Junk,Increase Weight,Burger & Ice Cream
+Sad,High,Calm,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Calm,Spicy,Reduce Weight,Mediterrenean wrap & Juice
+Sad,High,Calm,Spicy,Increase Weight,Burger & Ice Cream
+Sad,High,Stressed,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Stressed,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,High,Stressed,Sweet,Increase Weight,Burger & Ice Cream
+Sad,High,Stressed,Junk,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Stressed,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,High,Stressed,Junk,Increase Weight,Burger & Ice Cream
+Sad,High,Stressed,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+Sad,High,Stressed,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,High,Stressed,Spicy,Increase Weight,Burger & Ice Cream
+Sad,Low,Focused,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Low,Focused,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Focused,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Low,Focused,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Low,Focused,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Focused,Junk,Increase Weight,Burger & Energy Drink
+Sad,Low,Focused,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Low,Focused,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Focused,Spicy,Increase Weight,Burger & Energy Drink
+Sad,Low,Distracted,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Low,Distracted,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Distracted,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Low,Distracted,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Low,Distracted,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Distracted,Junk,Increase Weight,Burger & Energy Drink
+Sad,Low,Distracted,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Low,Distracted,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Distracted,Spicy,Increase Weight,Burger & Energy Drink
+Sad,Low,Calm,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Low,Calm,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Calm,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Low,Calm,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Low,Calm,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Calm,Junk,Increase Weight,Burger & Energy Drink
+Sad,Low,Calm,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Low,Calm,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Calm,Spicy,Increase Weight,Burger & Energy Drink
+Sad,Low,Stressed,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Low,Stressed,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Stressed,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Low,Stressed,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Low,Stressed,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Stressed,Junk,Increase Weight,Burger & Energy Drink
+Sad,Low,Stressed,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Low,Stressed,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Low,Stressed,Spicy,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Focused,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Focused,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Focused,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Focused,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Focused,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Focused,Junk,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Focused,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Focused,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Focused,Spicy,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Distracted,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Distracted,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Distracted,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Distracted,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Distracted,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Distracted,Junk,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Distracted,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Distracted,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Distracted,Spicy,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Calm,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Calm,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Calm,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Calm,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Calm,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Calm,Junk,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Calm,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Calm,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Calm,Spicy,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Stressed,Sweet,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Stressed,Sweet,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Stressed,Sweet,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Stressed,Junk,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Stressed,Junk,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Stressed,Junk,Increase Weight,Burger & Energy Drink
+Sad,Exhausted,Stressed,Spicy,Increase Muscles,Burger & Energy Drink
+Sad,Exhausted,Stressed,Spicy,Reduce Weight,Mediterrenean wrap & Ice Cream
+Sad,Exhausted,Stressed,Spicy,Increase Weight,Burger & Energy Drink
+OK,High,Focused,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Focused,Sweet,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Focused,Sweet,Increase Weight,Salad with Protein & Juice
+OK,High,Focused,Junk,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Focused,Junk,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Focused,Junk,Increase Weight,Salad with Protein & Juice
+OK,High,Focused,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Focused,Spicy,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Focused,Spicy,Increase Weight,Salad with Protein & Juice
+OK,High,Distracted,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Distracted,Sweet,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Distracted,Sweet,Increase Weight,Salad with Protein & Juice
+OK,High,Distracted,Junk,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Distracted,Junk,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Distracted,Junk,Increase Weight,Salad with Protein & Juice
+OK,High,Distracted,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Distracted,Spicy,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Distracted,Spicy,Increase Weight,Salad with Protein & Juice
+OK,High,Calm,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Calm,Sweet,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Calm,Sweet,Increase Weight,Salad with Protein & Juice
+OK,High,Calm,Junk,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Calm,Junk,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Calm,Junk,Increase Weight,Salad with Protein & Juice
+OK,High,Calm,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Calm,Spicy,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Calm,Spicy,Increase Weight,Salad with Protein & Juice
+OK,High,Stressed,Sweet,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Stressed,Sweet,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Stressed,Sweet,Increase Weight,Salad with Protein & Juice
+OK,High,Stressed,Junk,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Stressed,Junk,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Stressed,Junk,Increase Weight,Salad with Protein & Juice
+OK,High,Stressed,Spicy,Increase Muscles,Mediterrenean wrap & Juice
+OK,High,Stressed,Spicy,Reduce Weight,Mediterrenean wrap & Juice
+OK,High,Stressed,Spicy,Increase Weight,Salad with Protein & Juice
+OK,Low,Focused,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Focused,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Low,Focused,Sweet,Increase Weight,Burger & Energy Drink
+OK,Low,Focused,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Focused,Junk,Reduce Weight,Burger & Energy Drink
+OK,Low,Focused,Junk,Increase Weight,Burger & Energy Drink
+OK,Low,Focused,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Focused,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Low,Focused,Spicy,Increase Weight,Burger & Energy Drink
+OK,Low,Distracted,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Distracted,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Low,Distracted,Sweet,Increase Weight,Burger & Energy Drink
+OK,Low,Distracted,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Distracted,Junk,Reduce Weight,Burger & Energy Drink
+OK,Low,Distracted,Junk,Increase Weight,Burger & Energy Drink
+OK,Low,Distracted,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Distracted,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Low,Distracted,Spicy,Increase Weight,Burger & Energy Drink
+OK,Low,Calm,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Calm,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Low,Calm,Sweet,Increase Weight,Burger & Energy Drink
+OK,Low,Calm,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Calm,Junk,Reduce Weight,Burger & Energy Drink
+OK,Low,Calm,Junk,Increase Weight,Burger & Energy Drink
+OK,Low,Calm,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Calm,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Low,Calm,Spicy,Increase Weight,Burger & Energy Drink
+OK,Low,Stressed,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Stressed,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Low,Stressed,Sweet,Increase Weight,Burger & Energy Drink
+OK,Low,Stressed,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Stressed,Junk,Reduce Weight,Burger & Energy Drink
+OK,Low,Stressed,Junk,Increase Weight,Burger & Energy Drink
+OK,Low,Stressed,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Low,Stressed,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Low,Stressed,Spicy,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Focused,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Focused,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Focused,Sweet,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Focused,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Focused,Junk,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Focused,Junk,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Focused,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Focused,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Focused,Spicy,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Distracted,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Distracted,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Distracted,Sweet,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Distracted,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Distracted,Junk,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Distracted,Junk,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Distracted,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Distracted,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Distracted,Spicy,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Calm,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Calm,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Calm,Sweet,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Calm,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Calm,Junk,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Calm,Junk,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Calm,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Calm,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Calm,Spicy,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Stressed,Sweet,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Stressed,Sweet,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Stressed,Sweet,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Stressed,Junk,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Stressed,Junk,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Stressed,Junk,Increase Weight,Burger & Energy Drink
+OK,Exhausted,Stressed,Spicy,Increase Muscles,Mediterrenean wrap with Cheese
+OK,Exhausted,Stressed,Spicy,Reduce Weight,Burger & Energy Drink
+OK,Exhausted,Stressed,Spicy,Increase Weight,Burger & Energy Drink
